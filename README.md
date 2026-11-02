@@ -1,4 +1,4 @@
-![CoCo — AI Product Manager. Curious about AI. Serious about people.](./assets/profile-banner.svg)
+[![CoCo — AI Product Manager. Curious about AI. Serious about people.](./assets/profile-banner.svg)](https://liyajing-product.github.io/)
 
 # 你好，我是 CoCo 小克克
 
