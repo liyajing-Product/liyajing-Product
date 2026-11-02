@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="292" viewBox="0 0 1200 292" role="img" aria-label="CoCo, AI Product Manager. Curious about AI. Serious about people.">
+<rect x="1" y="1" width="1198" height="290" rx="30" fill="#ffffeb" stroke="#1a1a1a" stroke-width="2"/>
+<text x="55" y="56" fill="#034f46" font-family="Arial,sans-serif" font-size="13" letter-spacing="3">AI PRODUCT MANAGER</text>
+<text x="49" y="160" fill="#1a1a1a" font-family="Georgia,serif" font-size="104" letter-spacing="-4">CoCo.</text>
+<text x="56" y="210" fill="#55554e" font-family="Arial,sans-serif" font-size="20">Curious about AI. Serious about people.</text>
+<path d="M57 230q177 8 354-3" fill="none" stroke="#f0d7ff" stroke-width="6" stroke-linecap="round"/>
+<rect x="823" y="55" width="307" height="182" rx="25" fill="#1a1a1a"/>
+<g font-family="Arial,sans-serif" font-size="15"><circle cx="852" cy="93" r="5" fill="#f0d7ff"/><text x="871" y="99" fill="#ffffeb">Understand the need.</text><path d="M850 115h249" stroke="#ffffeb" stroke-opacity=".22"/><circle cx="852" cy="146" r="5" fill="#f0d7ff"/><text x="871" y="152" fill="#ffffeb">Shape the experience.</text><path d="M850 168h249" stroke="#ffffeb" stroke-opacity=".22"/><circle cx="852" cy="199" r="5" fill="#f0d7ff"/><text x="871" y="205" fill="#ffffeb">Make the next step clear.</text></g>
+<path d="M677 132h77m-16-12 16 12-16 12" fill="none" stroke="#034f46" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="639" cy="133" r="25" fill="#f0d7ff" stroke="#1a1a1a" stroke-width="2"/><path d="m639 119 4 10 10 4-10 4-4 10-4-10-10-4 10-4Z" fill="#1a1a1a"/>
+</svg>
