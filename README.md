@@ -6,7 +6,7 @@
 
 关注人的需要，也探索技术的可能。这里记录我对设计、AI 协作与用户体验的思考。
 
-[个人网站 ↗](https://liyajing-product.github.io/) · [技能标签](#skills) · [文章与思考](#writing)
+[个人网站 ↗](https://liyajing-product.github.io/) · [技能标签](#skills) · [AI 实践](#ai-exploration) · [个人优势](#strengths) · [个人文章](#writing)
 
 <a name="skills"></a>
 
@@ -41,20 +41,53 @@
   <img src="./assets/badges/tailwind-css.svg" alt="Tailwind CSS" height="28" />
 </p>
 
+<a name="ai-exploration"></a>
+
+## 我能用AI折腾出什么东西
+
+**👋 Hi，我是 CoCo 克克！**
+
+一个在 AI 世界里持续折腾、偶尔踩坑、但始终保持好奇心的产品经理。🤖
+
+从 AI 数据、SFT 微调到模型评测，再到 AI 产品设计与落地，一路从研究“模型怎么变聪明”，折腾到“怎么让 AI 真正帮人解决问题”。
+
+技术不是终点，解决问题才是。比起讨论 AI 能做什么，我更喜欢亲手验证，**它到底能不能做成一个真正有价值的产品。**
+
+持续学习，持续折腾，持续交付。
+
+> **少一点纸上谈兵，多一点 GitHub Commit。🚀**
+
+<a name="strengths"></a>
+
+## 个人优势
+
+### 🧠 懂产品，也懂点技术
+
+不只会写 PRD、画流程，还喜欢研究大模型、Agent 和各种 AI 新玩法。
+
+### 🛠️ 不做 PPT 型产品经理
+
+原型自己搭，Agent Skills 自己写，AI 工具自己造。能动手解决的问题，尽量不只停留在会议里。
+
+### 🎨 自带 UX 设计思维
+
+关注的不只是功能能不能跑通，更在意用户愿不愿意用、用起来爽不爽。
+
+### ✍️ 热衷 AI 知识分享
+
+喜欢把复杂的 AI 技术翻译成人话，让技术小白也能看懂，让专业人士也能有所收获。
+
 <a name="writing"></a>
 
-## 文章与思考
+## 个人文章
 
-<!-- ARTICLES:START -->
-我在微信公众号记录设计、AI 协作与用户体验相关的思考。点击标题阅读原文。
+在微信公众号分享 AI 实践、产品设计与用户体验的思考。
 
-| 文章 | 主题 |
-| --- | --- |
-| [设计师如何开启“闪身步”，跨进 AI 协作的？](https://mp.weixin.qq.com/s/5eyHKqee3ugK-3LQpiS2dQ) | 设计师 × AI 协作 |
-| [天天听 OpenAI 和 Anthropic，你真的知道它们在干什么吗？](https://mp.weixin.qq.com/s/jY4_teuCqTO_8zkjRIHpDg) | AI 公司与生态 |
-| [AI 的加入，快把设计师逼疯了～](https://mp.weixin.qq.com/s/-A5UZFXLqA5byEXMKa76lA) | AI 与设计实践 |
-| [AI 时代UX的变化有多大？](https://mp.weixin.qq.com/s/qergtIq6u9wqnYWHxTI-wg) | UX 与 AI |
-<!-- ARTICLES:END -->
+<p>
+  <img src="./assets/wechat-qrcode.jpg" alt="CoCo 克克的微信公众号二维码，使用微信扫一扫阅读个人文章" width="280" />
+</p>
+
+**微信扫一扫，阅读我的文章。**
 
 ---
 
