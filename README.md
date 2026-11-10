@@ -84,10 +84,12 @@
 在微信公众号分享 AI 实践、产品设计与用户体验的思考。
 
 <p>
-  <img src="./assets/wechat-qrcode.jpg" alt="CoCo 克克的微信公众号二维码，使用微信扫一扫阅读个人文章" width="280" />
+  <a href="./assets/wechat-qrcode.jpg">
+    <img src="./assets/wechat-reading-card.png" alt="CoCo 克克的 AI 手记阅读卡，微信扫一扫阅读 AI 实践、产品设计与用户体验文章，点击查看高清二维码" width="440" />
+  </a>
 </p>
 
-**微信扫一扫，阅读我的文章。**
+<sub>点击卡片可查看高清二维码。</sub>
 
 ---
 
