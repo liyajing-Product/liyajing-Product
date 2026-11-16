@@ -17,7 +17,6 @@
 <p>
   <img src="./assets/badges/ai-product.svg" alt="AI 产品管理" height="28" />
   <img src="./assets/badges/user-research.svg" alt="用户洞察与研究" height="28" />
-  <img src="./assets/badges/ux-ui.svg" alt="UX/UI 设计" height="28" />
   <img src="./assets/badges/interaction-design.svg" alt="交互设计" height="28" />
 </p>
 
