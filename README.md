@@ -6,7 +6,7 @@
 
 关注人的需要，也探索技术的可能。这里记录我对设计、AI 协作与用户体验的思考。
 
-[个人网站 ↗](https://liyajing-product.github.io/) · [技能标签](#skills) · [AI 实践](#ai-exploration) · [个人优势](#strengths) · [个人文章](#writing)
+[个人网站 ↗](https://liyajing-product.github.io/) · [技能标签](#skills) · [做过的项目](#projects) · [AI 实践](#ai-exploration) · [个人优势](#strengths) · [个人文章](#writing)
 
 <a name="skills"></a>
 
@@ -39,6 +39,18 @@
   <img src="./assets/badges/vite.svg" alt="Vite" height="28" />
   <img src="./assets/badges/tailwind-css.svg" alt="Tailwind CSS" height="28" />
 </p>
+
+<a name="projects"></a>
+
+## 做过的项目
+
+| 项目 | 是什么 | 技术栈 |
+| --- | --- | --- |
+| [SAYO](https://github.com/liyajing-Product/SAYO) | 初入职场沟通伙伴：用 AI 预演「任务冲突」「要求不明确」，把难开口的话练成能直接说出口的表达 | JavaScript · 兼容 OpenAI 接口 |
+| [personal_agent](https://github.com/liyajing-Product/personal_agent) | Health House —— 带长期记忆的个人健康 Agent，支持健康档案、用药日程与多轮对话 | Python · LLM |
+| [keke-work](https://github.com/liyajing-Product/keke-work) | ALPINE —— 电影感滚动叙事单页作品展示，五屏纵深场景 | Vite · React · TypeScript · GSAP |
+| [shulian-xiaoniu](https://github.com/liyajing-Product/shulian-xiaoniu) | 数链小牛的公开前端体验版，访客自带百炼 Key | JavaScript |
+| [个人网站](https://liyajing-product.github.io/) | CoCo 克克的个人主页，记录 AI 实践与 UX 思考 | HTML · CSS |
 
 <a name="ai-exploration"></a>
 
