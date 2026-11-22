@@ -102,6 +102,18 @@
 
 <sub>点击卡片可查看高清二维码。</sub>
 
+<a name="contributions"></a>
+
+## 我的提交
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/liyajing-Product/liyajing-Product/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/liyajing-Product/liyajing-Product/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub 贡献图贪吃蛇动画，蛇会依次吃掉亮起的贡献格" src="https://raw.githubusercontent.com/liyajing-Product/liyajing-Product/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<sub>这条蛇每 12 小时重画一次，吃掉的就是过去一年的提交格。</sub>
+
 ---
 
 **保持好奇，认真创造。**
